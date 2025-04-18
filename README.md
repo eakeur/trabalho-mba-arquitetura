@@ -312,16 +312,16 @@ Em uma análise apresentada pelo time executivo, hoje as gerações mais present
 
 ##### Arquitetura AS-IS
 
-![alt_text](images/image1.png "image_tooltip")
+![Arquitetura AS-IS](arquitetura-as-is.png "arquitetura-as-is")
 
 
-![alt_text](images/image2.png "image_tooltip")
+![Domínios AS-IS](dominios-as-is.png "dominios-as-is")
 
 
 
 ##### Arquitetura TO-BE
 
-![alt_text](images/image3.png "image_tooltip")
+![Arquitetura TO-BE](arquitetura-to-be.png "arquitetura-to-be")
 
 
 
@@ -495,7 +495,7 @@ O banco de dados de pedidos poderia continuar dentro do banco de dados do monól
 
 ## Desistências: houve algum ponto de decisão sem retorno ou que a equipe desistiu?
 
-	Não, como iniciamos o brainstorm com a premissa de que a solução deve ser a mais simples e rápida de implementar possível, nos protegemos contra decisões que não fossem estratégicas nesta fase do projeto.
+Não, como iniciamos o brainstorm com a premissa de que a solução deve ser a mais simples e rápida de implementar possível, nos protegemos contra decisões que não fossem estratégicas nesta fase do projeto.
 
 
 
@@ -504,20 +504,17 @@ O banco de dados de pedidos poderia continuar dentro do banco de dados do monól
 
 ##### Nível Contexto
 
-![alt_text](images/image4.png "image_tooltip")
+![Nível contexto](nivel-contexto.png "image_tooltip")
 
 
 
 ##### Nível Container
 
-![alt_text](images/image5.png "image_tooltip")
+![Nível container](nivel-container.png "image_tooltip")
 
 
 
 ##### Nível Componente
 
-![alt_text](images/image6.png "image_tooltip")
-
-
-![alt_text](images/image7.png "image_tooltip")
+![Nivel componente](nivel-componente.png "image_tooltip")
 
